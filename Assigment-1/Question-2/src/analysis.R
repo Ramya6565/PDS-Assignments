@@ -19,3 +19,4 @@ barplot(preparation)
 #this indicates us how many students taken the course before exam.
 
 plot(data$Reading.Score, data$Writing.Score, xlab="Reading",ylab="Writing")
+
